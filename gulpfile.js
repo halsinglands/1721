@@ -4,6 +4,7 @@ const concat = require('gulp-concat');
 const cleanCss = require('gulp-clean-css');
 const del = require('del');
 const browserSync = require('browser-sync').create();
+const htmlmin = require('gulp-htmlmin');
 
 function clean() {
   return del("docs");
@@ -21,6 +22,10 @@ function stylesheet() {
 }
 function hypertext() {
   return src('src/**/*.html')
+    .pipe(htmlmin({
+      collapseWhitespace: true,
+      removeComments: true
+    }))
     .pipe(dest('docs/'));
 }
 

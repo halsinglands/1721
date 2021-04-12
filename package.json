@@ -1,7 +1,7 @@
 {
   "name": "en-var-i-krig",
   "version": "1.0.0",
-  "description": "```shell npm init npm install gulp ```",
+  "description": "Fördjupningstexter till utställningen En vår i krig av Hälsinglands Museum.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,7 @@
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
     "gulp-sass": "^4.1.0",
     "node-sass": "^5.0.0",
     "normalize.css": "^8.0.1",
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/halsinglands/en-var-i-krig/issues"
   },
-  "homepage": "https://github.com/halsinglands/en-var-i-krig#readme"
+  "homepage": "https://halsinglands.github.io/en-var-i-krig/"
 }
