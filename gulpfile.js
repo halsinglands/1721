@@ -19,12 +19,6 @@ function stylesheet() {
     .pipe(cleanCss())
     .pipe(dest('dist/'));
 }
-
-function javascript() {
-  return src('src/js/*.js')
-    .pipe(dest('dist/'));
-}
-
 function hypertext() {
   return src('src/**/*.html')
     .pipe(dest('dist/'));
@@ -35,9 +29,8 @@ function browsersync() {
     server: "dist"
   });
   watch('src/scss/*.scss', stylesheet).on('change', browserSync.reload);
-  watch('src/js/*.js', javascript).on('change', browserSync.reload);
   watch('src/**/*.html', hypertext).on('change', browserSync.reload);
 }
 
-exports.build = series(clean, parallel(stylesheet, javascript, hypertext));
-exports.default = series(clean, parallel(stylesheet, javascript, hypertext), browsersync);
+exports.build = series(clean, parallel(stylesheet, hypertext));
+exports.default = series(clean, parallel(stylesheet, hypertext), browsersync);
