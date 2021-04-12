@@ -6,7 +6,7 @@ const del = require('del');
 const browserSync = require('browser-sync').create();
 
 function clean() {
-  return del("dist");
+  return del("docs");
 }
 
 function stylesheet() {
@@ -17,16 +17,16 @@ function stylesheet() {
     .pipe(sass().on('error', sass.logError))
     .pipe(concat("bundle.css"))
     .pipe(cleanCss())
-    .pipe(dest('dist/'));
+    .pipe(dest('docs/'));
 }
 function hypertext() {
   return src('src/**/*.html')
-    .pipe(dest('dist/'));
+    .pipe(dest('docs/'));
 }
 
 function browsersync() {
   browserSync.init({
-    server: "dist"
+    server: "docs"
   });
   watch('src/scss/*.scss', stylesheet).on('change', browserSync.reload);
   watch('src/**/*.html', hypertext).on('change', browserSync.reload);
