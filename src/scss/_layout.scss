@@ -14,8 +14,19 @@ body {
   height: 100%;
 }
 
-body {
+.main {
   margin: 0 auto;
   padding: 0.5em;
   max-width: 500px;
+}
+
+.index {
+  margin: 0 auto;
+  padding: 0.5em;
+  max-width: 1000px;
+  #qrcodes {
+    div {
+      padding-top: 5rem;
+    }
+  }
 }
