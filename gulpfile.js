@@ -12,7 +12,7 @@ function clean() {
 function stylesheet() {
   return src([
     'node_modules/normalize.css/normalize.css',
-    'src/scss/*.scss'
+    'src/scss/base.scss'
   ])
     .pipe(sass().on('error', sass.logError))
     .pipe(concat("bundle.css"))
