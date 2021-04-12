@@ -1,0 +1,30 @@
+{
+  "name": "en-var-i-krig",
+  "version": "1.0.0",
+  "description": "```shell npm init npm install gulp ```",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edvind",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0",
+    "normalize.css": "^8.0.1",
+    "yargs-parser": ">=20.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halsinglands/en-var-i-krig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halsinglands/en-var-i-krig/issues"
+  },
+  "homepage": "https://github.com/halsinglands/en-var-i-krig#readme"
+}
