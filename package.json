@@ -1,7 +1,7 @@
 {
-  "name": "en-var-i-krig",
+  "name": "1721-de-ryska-branderna",
   "version": "1.0.0",
-  "description": "Fördjupningstexter till utställningen En vår i krig av Hälsinglands Museum.",
+  "description": "Fördjupningstexter till utställningen 1721 - De ryska bränderna av Hälsinglands Museum.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halsinglands/en-var-i-krig.git"
+    "url": "git+https://github.com/halsinglands/1721-de-ryska-branderna.git"
   },
   "bugs": {
-    "url": "https://github.com/halsinglands/en-var-i-krig/issues"
+    "url": "https://github.com/halsinglands/1721-de-ryska-branderna/issues"
   },
-  "homepage": "https://halsinglands.github.io/en-var-i-krig/"
+  "homepage": "https://halsinglands.github.io/1721-de-ryska-branderna/"
 }
