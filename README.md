@@ -4,6 +4,7 @@ Fördjupningstexter till utställningen *1721 - De ryska bränderna* av Hälsing
 
 - 1721 - De stora bränderna
 - De snabba galärerna
+- Rysstugan – med och utan ryssar
 
 ## Användning
 
