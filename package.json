@@ -1,5 +1,5 @@
 {
-  "name": "1721-de-ryska-branderna",
+  "name": "1721",
   "version": "1.0.0",
   "description": "Fördjupningstexter till utställningen 1721 - De ryska bränderna av Hälsinglands Museum.",
   "main": "index.html",
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halsinglands/1721-de-ryska-branderna.git"
+    "url": "git+https://github.com/halsinglands/1721.git"
   },
   "bugs": {
-    "url": "https://github.com/halsinglands/1721-de-ryska-branderna/issues"
+    "url": "https://github.com/halsinglands/1721/issues"
   },
-  "homepage": "https://halsinglands.github.io/1721-de-ryska-branderna/"
+  "homepage": "https://halsinglands.github.io/1721/"
 }
