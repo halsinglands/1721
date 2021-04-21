@@ -7,6 +7,7 @@ Fördjupningstexter till utställningen *1721 - De ryska bränderna* av Hälsing
 - Rysstugan – med och utan ryssar
 - 1721 – ett hemskt år
 - Alla berättelser
+- Några fler stugor
 
 ## Användning
 
