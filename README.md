@@ -8,6 +8,7 @@ Fördjupningstexter till utställningen *1721 - De ryska bränderna* av Hälsing
 - 1721 – ett hemskt år
 - Alla berättelser
 - Några fler stugor
+- 1721 - The Russian Pillage
 
 ## Användning
 
