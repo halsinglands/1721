@@ -16,6 +16,7 @@ Filmlänkar
 - Johannes sång, ur musikteatern 1721
 - Gunilla Stenberg hälsar välkommen
 - Slaget vid Hällsäter, ur musikteatern 1721
+- Om rysshärjningarna efter Gävleborgskusten
 
 ## Användning
 
