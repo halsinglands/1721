@@ -10,9 +10,10 @@ Fördjupningstexter och filmlänkar till utställningen *1721 - De ryska brände
 - Några fler stugor
 - 1721 - The Russian Pillage
 
-Filmer
+Filmlänkar
 
 - 1721 - De stora bränderna
+- Johannes sång, ur musikteatern 1721
 
 ## Användning
 
