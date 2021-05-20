@@ -17,6 +17,7 @@ Filmlänkar
 - Gunilla Stenberg hälsar välkommen
 - Slaget vid Hällsäter, ur musikteatern 1721
 - Om rysshärjningarna efter Gävleborgskusten
+- Stackars Anders, ur musikteatern 1721
 
 ## Användning
 
