@@ -1,6 +1,6 @@
 # 1721 - De ryska bränderna
 
-Fördjupningstexter till utställningen *1721 - De ryska bränderna* av Hälsinglands Museum.
+Fördjupningstexter och filmlänkar till utställningen *1721 - De ryska bränderna* av Hälsinglands Museum.
 
 - 1721 - De stora bränderna
 - De snabba galärerna
@@ -9,6 +9,10 @@ Fördjupningstexter till utställningen *1721 - De ryska bränderna* av Hälsing
 - Alla berättelser
 - Några fler stugor
 - 1721 - The Russian Pillage
+
+Filmer
+
+- 1721 - De stora bränderna
 
 ## Användning
 
